@@ -15,6 +15,7 @@ The goal is to extract actionable insights that help improve product strategy, s
 - Excel / CSV
 - Data Cleaning & Transformation
 - Data Visualization
+- MySQL
 
 ---
 
